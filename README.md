@@ -1,72 +1,85 @@
-<!-- Typing SVG -->
-<h1 align="center">Hi 👋, I'm Vaishnavi Nandi</h1>
-<h3 align="center">Data Analyst | Python Developer | SQL Enthusiast</h3>
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm Vaishnavi Nandi</h1>
+<h3 align="center">Data Analyst | Python Developer | Data Visualization Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github.com/vaishnavinandi26/vaishnavinandi26/assets/placeholder-banner.gif" alt="Profile Banner" width="80%" />
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔍 Passionate about **data analytics** and **data-driven problem solving**
-- 💡 Skilled in **Python**, **SQL**, **Excel**, and **data visualization**
-- 📊 Love working with **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib**
-- 📈 Always learning and building projects that turn data into insights
-- 🤝 Open to collaborating on **Data Analysis** and **Python Development** projects
+- 🧠 I turn **data into stories** using Python & visualization tools  
+- 🧩 Skilled in **data cleaning, analysis, and automation**  
+- 💻 Proficient in **Python, SQL, Excel, and Advanced Excel tools**  
+- 📊 Passionate about **Matplotlib**, **Seaborn**, and insightful dashboards  
+- 🚀 Always learning and sharing projects that make data speak  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0C2340?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced Excel-217346?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [📊 Sales Data Dashboard](#) | Built an interactive Excel dashboard to analyze regional sales | Excel, Pivot Tables, Charts |
-| [📈 Data Cleaning Automation](#) | Automated data cleaning process using Pandas | Python, Pandas |
-| [🧠 COVID-19 Data Insights](#) | Visualized global trends using Seaborn and Matplotlib | Python, Seaborn |
-| [💾 SQL Business Analysis](#) | Queried and analyzed datasets to uncover insights | SQL, MySQL |
-
-> 🔗 *(You can update the links above once your project repositories are public!)*
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavinandi26&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinandi26&layout=compact&theme=radical" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavinandi26&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinandi26&layout=compact&theme=tokyonight" width="41%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎨 Data Visualization Vibes
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=dracula&margin-w=15&no-frame=true" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_bar_label_demo_001.png" width="45%" />
+  <img src="https://seaborn.pydata.org/_images/seaborn-logo-wide-lightbg.svg" width="40%" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### 💬 Connect With Me
 
 <p align="center">
   <a href="mailto:vaishnavinandi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vaishnavinandi26" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
 </p>
 
 ---
 
-⭐️ *“Data is the new oil, and I love refining it into insights!”*  
-✨ *Thanks for visiting my profile — feel free to explore my repositories!*
+## 💡 Innovative Python Code: "Colors of Data"
+
+```python
+# 💻 Data Art by Vaishnavi Nandi 🌈
+import numpy as np
+import matplotlib.pyplot as plt
+
+np.random.seed(26)
+x = np.linspace(0, 10, 500)
+y = np.sin(x) + np.random.normal(0, 0.2, 500)
+
+colors = plt.cm.plasma((y - y.min()) / (y.max() - y.min()))
+plt.scatter(x, y, c=colors, s=40, edgecolor='white', alpha=0.9)
+plt.title("✨ Data Has Its Own Rhythm ✨", fontsize=14, color='#30336b')
+plt.xlabel("Time")
+plt.ylabel("Signal")
+plt.grid(True, linestyle="--", alpha=0.5)
+plt.show()
+
