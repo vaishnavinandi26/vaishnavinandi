@@ -64,22 +64,4 @@
 
 ---
 
-## 💡 Innovative Python Code: "Colors of Data"
-
-```python
-# 💻 Data Art by Vaishnavi Nandi 🌈
-import numpy as np
-import matplotlib.pyplot as plt
-
-np.random.seed(26)
-x = np.linspace(0, 10, 500)
-y = np.sin(x) + np.random.normal(0, 0.2, 500)
-
-colors = plt.cm.plasma((y - y.min()) / (y.max() - y.min()))
-plt.scatter(x, y, c=colors, s=40, edgecolor='white', alpha=0.9)
-plt.title("✨ Data Has Its Own Rhythm ✨", fontsize=14, color='#30336b')
-plt.xlabel("Time")
-plt.ylabel("Signal")
-plt.grid(True, linestyle="--", alpha=0.5)
-plt.show()
 
