@@ -43,20 +43,39 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
----
+
 # 📜 Certifications
 
-This repository contains all the professional certifications I have
-completed.
+A collection of verified certifications I have completed in the fields
+of Data Science, Programming, AI, and Full Stack Development.
 
-## 🏅 Achieved Certifications
+------------------------------------------------------------------------
 
--   **Minor Degree in Data Science** -- JNTUH
--   **Python Programming Certification** -- Codetantra
--   **Full Stack Java Development Certification** -- Simplilearn
--   **NLP, ChatGPT & Prompt Engineering Certification** -- ExcelR
-----
+## 🏅 Professional Certifications
 
+### 🎓 Minor Degree in Data Science --- *JNTUH*
+
+![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
+
+------------------------------------------------------------------------
+
+### 🐍 Python Programming Certification --- *Codetantra*
+
+![Badge](https://img.shields.io/badge/Python-Codetantra-yellow)
+
+------------------------------------------------------------------------
+
+### 💻 Full Stack Java Development Certification --- *Simplilearn*
+
+![Badge](https://img.shields.io/badge/Full%20Stack%20Java-Simplilearn-orange)
+
+------------------------------------------------------------------------
+
+### 🤖 NLP, ChatGPT & Prompt Engineering --- *ExcelR*
+
+![Badge](https://img.shields.io/badge/NLP%20%26%20Prompt%20Engineering-ExcelR-green)
+
+------------------------------------------------------------------------
 ### 💬 Connect With Me
 
 <p align="center">
