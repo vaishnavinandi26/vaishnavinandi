@@ -43,8 +43,59 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
----
 
+# 📜 Certifications & Internships
+
+A complete list of my **certifications and internship achievements** in
+Data Science, Python Development, AI, and Full Stack Development.
+
+------------------------------------------------------------------------
+
+## 🏅 Professional Certifications
+
+### 🎓 Minor Degree in Data Science --- *JNTUH*
+
+![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
+
+### 🐍 Python Programming Certification --- *Codetantra*
+
+![Badge](https://img.shields.io/badge/Python-Codetantra-yellow)
+
+### 💻 Full Stack Java Development --- *Simplilearn*
+
+![Badge](https://img.shields.io/badge/Full%20Stack%20Java-Simplilearn-orange)
+
+### 🤖 NLP, ChatGPT & Prompt Engineering --- *ExcelR*
+
+![Badge](https://img.shields.io/badge/NLP%20%26%20Prompt%20Engineering-ExcelR-green)
+
+------------------------------------------------------------------------
+
+# 💼 Internship Certifications
+
+## 🚀 Python Development Internships
+
+### 🟦 CodSoft --- *Python Development Internship*
+
+![Badge](https://img.shields.io/badge/Python%20Internship-CodSoft-blueviolet)
+
+-   Completed hands-on Python development tasks\
+-   Worked on mini-projects and practical coding assignments\
+-   Strengthened core Python skills and logical problem-solving
+
+------------------------------------------------------------------------
+
+### 🟩 CsEdge --- *Python Development Internship*
+
+![Badge](https://img.shields.io/badge/Python%20Internship-CsEdge-brightgreen)
+
+-   Completed Python-based backend and automation tasks\
+-   Gained practical exposure to real-time Python projects\
+-   Improved debugging, scripting, and development workflow
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 ### 💬 Connect With Me
 
 <p align="center">
@@ -53,5 +104,3 @@
 </p>
 
 ---
-
-
